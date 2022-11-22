@@ -4,3 +4,4 @@ javahome is in Marathahalli
 everyone learing aws/devops 
 all is well
 Git fetch demo
+learning git branch/heads
